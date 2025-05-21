@@ -7,12 +7,14 @@ En este repositorio están mis siguientes archivos:
 + Pia_Poo_DLMM_2047960.pdf
   * En este documento se encuentra como realice mi proyecto, explicaciones detalladas, pasos 
 ## Codigos:
-+ codigo principal:
++ codigo principal: Codigos principales .py y .cpp versiones finales
     *
     * 
 + **pruebas**: aqui estan codigos que utlice para pruebas de gui, conexión y funcionamiento
     * prueba11servos.cpp
-    * 
+    * **BRANCH: Prueba_ConexionPlacayGUI**
+     - conexionTestMain.cpp
+     - main.py
 ## cirucuito:
 + diagrama.pdf
 ## Presentacion:
