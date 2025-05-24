@@ -1,7 +1,7 @@
 # PIA_POO_DLMM
 Diana Laura Martínez Molina 2047960
 Materia: Programación orientada a objetos
-En este repositorio están mis siguientes archivos para la elaboracion de mi proyecto fnla:
+En este repositorio están mis siguientes archivos para la elaboracion de mi proyecto final:
 
 ## Documentacion:
 + Pia_Poo_DLMM_2047960.pdf
